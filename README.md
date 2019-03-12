@@ -22,7 +22,7 @@ Pour le lancer, et voir le résultat sur la console :
 ./main
 ```
 
-## Qels tests sont effectués ?
+## Quels tests sont effectués ?
 
 Ceux qui sont demandés dans le projet. En outre, l'addition de deux matrices, vérifier si une matrice est carré, symétrique, calculer un déterminant, utilisation du pivot de Gauss, etc ...
 
