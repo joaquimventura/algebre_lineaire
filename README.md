@@ -1,6 +1,6 @@
 # algebre_lineaire
-Projet d'algebre linéaire
-Ce projet est ma version du projet à faire en Algebre Lineaire Appliqué du 4ème semestre de la deuxième année de licence Informatique à la faculté de Maths-Info à Strasbourg.
+
+Ceci est ma version du projet pour la matière Algebre Lineaire Appliqué du semestre 4 (2è année de licence informatique).
 
 ## Prérecquis
 ```
